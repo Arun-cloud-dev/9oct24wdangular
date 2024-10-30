@@ -7,7 +7,7 @@ import { NgFor , NgIf } from '@angular/common';
 
 import { HeaderComponent } from './header/header.component';
 import { UserComponent } from "./user/user.component";
-import { DUMMY_USERS } from './dummy-u ser';
+import { DUMMY_USERS } from './dummy-user';
 import { TasksComponent } from './tasks/tasks.component';
 
 
