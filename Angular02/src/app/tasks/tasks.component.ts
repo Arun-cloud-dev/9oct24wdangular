@@ -29,7 +29,6 @@ export class TasksComponent {
   }
 
 
-  onCompleteTask(id: string){}
 
   onStartAddTask() {
     this.isAddingTask = true;
